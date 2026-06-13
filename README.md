@@ -1,1 +1,1 @@
-# customer-shopping-behaviour-project
+# customer-shopping-behaviour
